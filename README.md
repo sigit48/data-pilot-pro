@@ -265,7 +265,7 @@ Includes:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sigit48/datapilot-pro.git
+git clone https://github.com/sigit48/data-pilot-pro.git
 cd datapilot-pro
 ```
 
