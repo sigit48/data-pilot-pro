@@ -1,0 +1,14 @@
+streamlit
+pandas
+polars
+numpy
+plotly
+Pillow
+openpyxl
+scikit-learn
+statsmodels
+scipy
+google-generativeai
+reportlab
+PyPDF2
+pdfplumber
